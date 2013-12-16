@@ -34,7 +34,7 @@ Then select rows
 
     Shift+i
 
-Enter comment char (i.e. # or //)
+Enter comment char (i.e. `#` or `//`)
 
 Press 
 
