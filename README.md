@@ -6,6 +6,7 @@
 
     :tn[next]
     :tp[revious]
+    :ts[elect]
 
 ## Reset search highlighting
 
