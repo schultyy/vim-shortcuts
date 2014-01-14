@@ -7,6 +7,12 @@
     :tn[next]
     :tp[revious]
     :ts[elect]
+    
+## Jump to tag
+
+Position the cursor on symbol and press
+
+    Ctrl+]
 
 ## Reset search highlighting
 
