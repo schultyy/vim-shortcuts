@@ -2,6 +2,11 @@
 
 > vim gedoens
 
+## Navigate between ctags matches
+
+    :tn[next]
+    :tp[revious]
+
 ## Reset search highlighting
 
     set hlsearch!
