@@ -2,6 +2,14 @@
 
 > vim gedoens
 
+## Vertical split size
+
+    :vertical resize <num>
+    
+## Horizontal split size
+
+    :resize <num>
+
 ## Navigate between ctags matches
 
     :tn[next]
