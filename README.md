@@ -16,6 +16,10 @@
     :tp[revious]
     :ts[elect]
     
+## Navigate to previous file
+
+    Ctrl+O
+    
 ## Jump to tag
 
 Position the cursor on symbol and press
