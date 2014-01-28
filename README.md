@@ -2,6 +2,10 @@
 
 > vim gedoens
 
+## Custom settings per file type
+
+Described here: http://stackoverflow.com/questions/158968/changing-vim-indentation-behavior-by-file-type
+
 ## Vertical split size
 
     :vertical resize <num>
